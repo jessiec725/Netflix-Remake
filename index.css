@@ -6,6 +6,10 @@ html {
   background-size: cover;
   background-position: 10% 10%;
 }
+#container {
+ margin: auto;
+  width: 1500px;
+}
 body{
   font-family: helvetica;
 }
