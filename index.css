@@ -90,6 +90,9 @@ body{
 .rightmenu ul li a:hover{
   opacity:1;
 }
+img:hover{
+  opactiy:.5;
+}
 
 #showCase {
   margin-top: 120px;
